@@ -1,1 +1,7 @@
-
+"DISCORD_BOT_TOKEN": "",
+    "DISCORD_BOT_CLIENT_ID": "",
+    "OPENAI_API_KEY": "",
+    "OPENAI_ORGANIZATION": "",
+    "ALLOWED_SERVER_IDS": [
+        "",
+        "",
