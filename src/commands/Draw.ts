@@ -22,8 +22,8 @@ import { defaultActions } from "../Actions";
 import {CustomIdContext} from "../Action";
 
 export const Draw: Command = {
-  name: "draw",
-  description: "Generates images with DALL-E",
+  name: "generate",
+  description: "Generates images with prompt",
   type: ApplicationCommandType.ChatInput,
   options: [
     {
